@@ -50,3 +50,9 @@ Your GSoC application would be super awesome if you show that you managed to
 record a small audio clip of yourself and have an open-source speech-to-text
 toolkit transcribe it! It would be cool if you find other useful public models
 which could serve our needs. 
+
+If you have any questions, feel free to [create an issue](https://github.com/jitsi/gsoc-ideas/issues/new)!
+
+## Mentors
+
+@nikvaessen
