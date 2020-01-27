@@ -1,4 +1,4 @@
-# Step Counter
+# JitsiFit (a.k.a. Step Counter)
 
 ## Prerequisites
 Prior knowledge in these areas will be an advantage for this project, but none of them
@@ -6,7 +6,7 @@ are strictly necessary:
 
 * Android/iOS
 * JavaScript
-* React
+* React Native
 
 ## The project
 More and more people choose to join video conferences on their mobile device
