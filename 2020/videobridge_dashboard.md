@@ -1,4 +1,4 @@
-# Speech-to-text with publicly available deep learning models
+# Videobridge telemtry dashboard
 
 ## Prerequisites
 Prior knowledge in these areas will be an advantage for this project, but none of them
