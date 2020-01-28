@@ -1,4 +1,4 @@
-# Videobridge telemtry dashboard
+# Videobridge Telemetry Dashboard
 
 ## Prerequisites
 Prior knowledge in these areas will be an advantage for this project, but none of them
