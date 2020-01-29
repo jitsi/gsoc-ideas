@@ -14,5 +14,8 @@ We currently have a "test" Electron client [here](https://github.com/jitsi/jitsi
 * Use the welcome page from the deployment (this may require updates to the [External API](https://github.com/jitsi/jitsi-meet/blob/master/modules/API/external/external_api.js))
 * Replace AtlasKit with react-native-paper (using react-native-web)
 
+## Pro tips for your application
+Have you worked with Electron apps before? Show us your work!
+
 ## Potential mentors
 @saghul
