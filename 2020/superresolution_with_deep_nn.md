@@ -58,5 +58,5 @@ If you have any questions, feel free to [create an issue](https://github.com/jit
 
 ## Mentors
 
-@nikvaessen
+@nikvaessen  
 @bgrozev
