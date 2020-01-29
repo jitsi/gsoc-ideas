@@ -1,4 +1,4 @@
-# Make Electron Great Again
+# Electron app improvements
 
 ## Prerequisites
 Prior knowledge in these areas will be an advantage for this project, but none of them
