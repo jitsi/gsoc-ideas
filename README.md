@@ -12,6 +12,7 @@ technologies at the same time.
 
 * [Videobridge Telemetry Dashboard](2020/videobridge_dashboard.md)
 * [Electron app improvement](2020/electron.md)
+* [Voice Obfuscation (a.k.a voice anonymization)](2020/voice-obfuscation.md)
 
 :fire: :fire: 
 
@@ -25,7 +26,6 @@ technologies at the same time.
 :fire: :fire: :fire: 
 
 * [Super-resolution with Deep Neural Networks to save bandwidth](2020/superresolution_with_deep_nn.md)
-* [Voice Obfuscation (a.k.a voice anonymization)](2020/voice-obfuscation.md)
 
 # Interested in applying for a project?
 
