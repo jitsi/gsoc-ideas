@@ -5,16 +5,17 @@ This repository contains the project ideas for GSoC over the years.
 # Project for GSoC 2020
 
 Here's a list of the project ideas for GSoC 2020. Click on the title for a more detailed description. 
-The amount of :fire:'s give a rough indication of difficulty.
+The amount of :fire:'s give a rough indication of difficulty as some projects involve working with more or different
+technologies at the same time. 
 
 :fire: 
 
 * [Videobridge Telemetry Dashboard](2020/videobridge_dashboard.md)
 * [Electron app improvement](2020/electron.md)
-* [JitsiFit (a.k.a. Step Counter)](2020/jitsi-fit.md)
 
 :fire: :fire: 
 
+* [JitsiFit (a.k.a. Step Counter)](2020/jitsi-fit.md)
 * [Kubernetes autoscaling setup](2020/k8s.md)
 * [Multiple Live Streaming Providers](2020/live-streaming-providers.md)
 * [Multiple Recording Storage Providers](2020/recording-storage-providers.md)
