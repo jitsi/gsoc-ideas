@@ -26,6 +26,7 @@ technologies at the same time.
 :fire: :fire: :fire: 
 
 * [Super-resolution with Deep Neural Networks to save bandwidth](2020/superresolution_with_deep_nn.md)
+* [Chromecast/AirPlay streaming for Spot](2020/spot-chromecast-airplay.md)
 
 # Interested in applying for a project?
 
