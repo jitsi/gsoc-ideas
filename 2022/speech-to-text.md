@@ -26,9 +26,7 @@ conference call.
 
 There are some open-source libraries which could fit our needs as a starting point:
 
-* https://github.com/facebookresearch/wav2letter
-* https://github.com/mozilla/DeepSpeech
-* https://github.com/PaddlePaddle/DeepSpeech#released-models
+* https://huggingface.co/models?pipeline_tag=automatic-speech-recognition&sort=downloads
 
 ## The project:
 The current implementation of speech-to-text is based on
