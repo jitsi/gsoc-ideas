@@ -9,7 +9,7 @@ Make it possible to see a reduced version of the meeting (just the active speake
 While iOS does have support for picture-in-picture, in practice it's quite limited because it only works for videos.
 However, it should be possible to "produce" a video on the fly so we can have PiP working on iOS!
 
-## Expected ooutcomes
+## Expected outcomes
 
 A working PiP implementation for iOS.
 
