@@ -11,7 +11,7 @@ There are occasions where having the meeting display on a larger screen could be
 room. Adding the ability of casting a meeting would allow a simple and wireless way for taking the meeting experience to
 a large screen, while keeping the camera and microphone in the local device.
 
-## Expected ooutcomes
+## Expected outcomes
 
 A new "cast this meeting" feature.
 
