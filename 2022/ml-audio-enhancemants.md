@@ -10,7 +10,7 @@ Noise / audio problems plague video conferences. This project aims to integrate 
 "audio enhancing" feature which would make voice be clearer and made front and center, clean of background
 noise.
 
-## Expected ooutcomes
+## Expected outcomes
 
 A new feature for the web application, using existing ML models, improving audio quality in usual circumstances like
 barking dogs, police cars, etc.
