@@ -8,7 +8,7 @@ Short description
 
 More detailed description of the project (2-5+ sentences) 
 
-## Expected ooutcomes
+## Expected outcomes
 
 ## Skills
 
