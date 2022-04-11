@@ -7,7 +7,7 @@ Introduce spatial audio on Jitsi meetings.
 ## Description
 
 Spatial audio can help people feel more connected in a meeting. This project would add spatial audio support
-for meetings so articipants have a more immersive experience.
+for meetings so participants have a more immersive experience.
 
 ## Expected outcomes
 
