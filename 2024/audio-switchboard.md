@@ -2,7 +2,7 @@
 
 ## Overview
 
-Design and implement a protocol and an API to allow participants in a [Jitsi Meet]() conference to use
+Design and implement a protocol and an API to allow participants in a [Jitsi Meet](https://github.com/jitsi/jitsi-meet/) conference to use
 different audio channels.
 
 ## Description
@@ -16,7 +16,7 @@ what they receive. This would allow various exciting features to be implemented 
 lightweight breakout rooms, whispering, etc.
 
 ## Expected outcomes
-* A protocol between a client and [Jitsi Videobridge]() for publish/subscribe audio channels
+* A protocol between a client and [Jitsi Videobridge](https://github.com/jitsi/jitsi-videobridge/) for publish/subscribe audio channels
 * Audio filtering in Jitsi Videobridge based on channels
 * \[Optional: A javascript API that allows clients to change the audio channels they receive/send\]
 
@@ -34,6 +34,3 @@ Large (350 hours)
 ## Difficulty
 
 Hard
-
-[Jitsi Videobridge](https://github.com/jitsi/jitsi-videobridge/)
-[Jitsi Meet](https://github.com/jitsi/jitsi-meet/)

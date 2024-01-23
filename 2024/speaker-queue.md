@@ -6,7 +6,7 @@ Develop a user interface component that organizes the set of participants that a
 
 ## Description
 
-The [Jitsi Meet]() system allows participants to raise their hand to indicate that they are ready to speak.
+The [Jitsi Meet](https://github.com/jitsi/jitsi-meet/) system allows participants to raise their hand to indicate that they are ready to speak.
 When multiple participants raise their hand, there is no easy way to determine who was first and who should be the next
 one to speak.
 
@@ -28,4 +28,3 @@ Small (90 hours)
 
 Easy/Medium
 
-[Jitsi-Meet](https://github.com/jitsi/jitsi-meet/)
