@@ -2,11 +2,11 @@
 
 Here's the list of project ideas for GSoC 2024! Click on the title for a more detailed description. 
 
-* [Prometheus scraping and Grafana dashboards](2024/prometheus-grafana.md)
-* [Audio Switchboard API](2024/audio-switchboard.md)
-* [Jiconop for WebSockets](2024/jiconop-ws.md)
-* [Jitsi Log Analyser](2024/logan.md)
-* [Speaker Queue](2024/speaker-queue.md)
+* [Prometheus scraping and Grafana dashboards](prometheus-grafana.md)
+* [Audio Switchboard API](audio-switchboard.md)
+* [Jiconop for WebSockets](jiconop-ws.md)
+* [Jitsi Log Analyser](logan.md)
+* [Speaker Queue](speaker-queue.md)
 
 # Interested in applying for a project?
 
