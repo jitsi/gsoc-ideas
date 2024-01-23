@@ -27,7 +27,7 @@ Docker, Prometheus, Grafana.
 
 ## Possible mentors
 
-Aaron van Meerten, Scott Boone, Boris Grozev, Saúl Ibarra Corretgé
+Aaron van Meerten, Scott Boone, Boris Grozev, Saúl Ibarra Corretgé, Lucian-Paul Torje
 
 ## Expected project size
 
