@@ -7,7 +7,7 @@ different audio channels.
 
 ## Description
 
-[Jitsi Meet]() clients use a very flexible [constraints](https://github.com/jitsi/jitsi-videobridge/blob/master/doc/allocation.md) API
+Jitsi Meet clients use a very flexible [constraints](https://github.com/jitsi/jitsi-videobridge/blob/master/doc/allocation.md) API
 to select which video streams in a conference they want to received. However, audio is not configurable: endpoints always receive
 all audio streams (optionally filtered by loudness).
 

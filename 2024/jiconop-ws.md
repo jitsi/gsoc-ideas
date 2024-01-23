@@ -12,7 +12,7 @@ The initial connection requires multiple round-trips and can be slow in networks
 optimize the initial connection time by introducing a proxy between cliens and prosody, which
 batches some of the exchanges.
 
-The [jiconop](github.com/jitsi/jiconop) project has the same conceptual design, but works with BOSH instead of WebSockets,
+The [jiconop](https://github.com/jitsi/jiconop) project has the same conceptual design, but works with BOSH instead of WebSockets,
  so the implementation details are completely different.
 
 
