@@ -1,4 +1,4 @@
-# Meetings stats with rtcstats
+# Meeting stats with rtcstats
 
 ## Overview
 
