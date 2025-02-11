@@ -6,6 +6,11 @@ Here's the list of project ideas for GSoC 2025! Click on the title for a more de
 
 * [Chat Moderation & Editing](chat-moderation-editing.md)
 * [Whiteboard Improvements](whiteboard-improvements.md)
+* [Advanced Audio Settings](advanced-audio.md)
+* [Picture-in-Picture for iOS](ios-pip.md)
+* [Jitsi Videobridge JavaScript client](jvb-js.md)
+* [lib-jitsi-meet in TypeScript](ljm-typescript.md)
+* [Virtual Backgrounds, take 2](virtual-backgrounds-ng.md)
 
 # Interested in applying for a project?
 
