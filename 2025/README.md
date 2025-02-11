@@ -11,6 +11,7 @@ Here's the list of project ideas for GSoC 2025! Click on the title for a more de
 * [Jitsi Videobridge JavaScript client](jvb-js.md)
 * [lib-jitsi-meet in TypeScript](ljm-typescript.md)
 * [Virtual Backgrounds, take 2](virtual-backgrounds-ng.md)
+* [Integrated AI services with Skynet](skynet.md)
 
 # Interested in applying for a project?
 
