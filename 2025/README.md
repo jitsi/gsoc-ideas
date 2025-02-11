@@ -12,6 +12,7 @@ Here's the list of project ideas for GSoC 2025! Click on the title for a more de
 * [lib-jitsi-meet in TypeScript](ljm-typescript.md)
 * [Virtual Backgrounds, take 2](virtual-backgrounds-ng.md)
 * [Integrated AI services with Skynet](skynet.md)
+* [Meeting stats with rtcstats](rtcstats.md)
 
 # Interested in applying for a project?
 
