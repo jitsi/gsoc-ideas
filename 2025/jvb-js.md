@@ -6,7 +6,7 @@ JavaScript library for communicating with the [Jitsi Videobridge](https://github
 
 ## Description
 
-The JVB is the heart of Jitsi Meet. It's the entioty responsible for video routing.
+The JVB is the heart of Jitsi Meet. It's the entity responsible for video routing.
 
 Jitsi Meet uses many more components than the JVB, connecting them via XMPP. This setup may not be desirable for everyone
 so a low level library that can connect to the JVB directly would give developers the ultimate flexibility to use our

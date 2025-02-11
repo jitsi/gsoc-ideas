@@ -16,9 +16,12 @@ Here's the list of project ideas for GSoC 2025! Click on the title for a more de
 
 # Interested in applying for a project?
 
-Make sure to read the [GSoC advice pages](https://developers.google.com/open-source/gsoc/help/student-advice/) to see how to get started.
+Make sure to read the [GSoC advice pages](https://developers.google.com/open-source/gsoc/help/student-advice/) to see how to get started, and check out the [Jitsi handbook](https://jitsi.github.io/handbook/) to get yourself more familiarized with Jitsi.
 
-If you find an interesting project (or came up with one yourself!), you should make a draft proposal as soon as possible. 
-Please open an issue with any questions!
+Think about preparing a draft proposal, but note that:
+* The participating organizations have not been announced yet, so we don't know whether Jitsi will participate this year.
+* Proposals or drafts shouldn't be shared publically to avoid being plagiarized. Stay tuned on details on how to share drafts with the Jitsi team privately.
 
-In order to get yourself more familiarized with Jitsi Meet take a look at [our handbook](https://jitsi.github.io/handbook/).
+# Do you have a suggestion for a new project?
+
+If you have a suggestion for a project that's not on our list, feel free to create an issue in this repository. 
