@@ -14,6 +14,7 @@ Here's the list of project ideas for GSoC 2025! Click on the title for a more de
 * [Integrated AI services with Skynet](skynet.md)
 * [Meeting stats with rtcstats](rtcstats.md)
 * [Audio Switchboard API](audio-switchboard.md)
+* [Removing "ghost" participants on reconnections](no-ghosts.md)
 
 # Interested in applying for a project?
 
