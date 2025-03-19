@@ -1,6 +1,6 @@
 # Projects for GSoC 2025
 
-Jitsi has decided to apply for Google Summer of Code 2025!
+Jitsi has been accepted as an organization for Google Summer of Code 2025!
 
 Here's the list of project ideas for GSoC 2025! Click on the title for a more detailed description. 
 
@@ -20,9 +20,7 @@ Here's the list of project ideas for GSoC 2025! Click on the title for a more de
 
 Make sure to read the [GSoC advice pages](https://developers.google.com/open-source/gsoc/help/student-advice/) to see how to get started, and check out the [Jitsi handbook](https://jitsi.github.io/handbook/) to get yourself more familiarized with Jitsi.
 
-Think about preparing a draft proposal, but note that:
-* The participating organizations have not been announced yet, so we don't know whether Jitsi will participate this year.
-* Proposals or drafts shouldn't be shared publically to avoid being plagiarized. Stay tuned on details on how to share drafts with the Jitsi team privately.
+Think about preparing a proposal, but *do NOT share any drafts publically to avoid being plagiarized*. We don't have the resources to review drafts anyway, so please do *NOT* include them in your introduction email.
 
 # Do you have a suggestion for a new project?
 
