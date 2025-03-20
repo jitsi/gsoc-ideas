@@ -25,7 +25,7 @@ JavaScript, TypeScript
 
 ## Possible mentors
 
-Saúl Ibarra Corretgé, Jaya Allamsetty, Hristo Terezov
+Saúl Ibarra Corretgé, Jaya Allamsetty
 
 ## Expected project size
 
