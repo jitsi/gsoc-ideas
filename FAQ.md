@@ -14,3 +14,7 @@ Yes! We welcome bespoke ideas as long as they align with our project’s goals. 
 
 ## 5. What is the best way to contact the team?
 If you need to get in touch, please reach out to the org admins.
+
+## 6. What is the project selection criteria?
+The quality of the proposal. If you have done any relevant work please link it, the more we know about how you work the better. If your proposal looks AI generated we won't even finish reading it. Contributing to Jitsi projects is not
+a requirement and need not have an impact on the project selection.
