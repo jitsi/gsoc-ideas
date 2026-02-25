@@ -21,8 +21,9 @@ Make sure to read the [GSoC advice pages](https://developers.google.com/open-sou
 
 Think about preparing a proposal, but *do NOT share any drafts publically to avoid being plagiarized*. We don't have the resources to review drafts anyway, so please do *NOT* include them in your introduction email.
 
-Use of AI/LLMs for project proposals should be limited to language and grammar corrections only. Your proposal should be concise, well-organized, and demonstrate your genuine interest in the project.
+Use of AI/LLMs for project proposals should be limited to language and grammar corrections only. Your proposal should be concise, well-organized, and demonstrate your genuine interest in the project. Proposals that are purely AI generated will be automatically rejected.
 
-# Do you have a suggestion for a new project?
+If you plan to start contributing to the project, please take a look at the [contribution guidelines](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/) and only submit valid PRs. You can only use AI as a collaborative tool that assists your learning but you should be able to explain in simple language the issue you are trying to fix, the steps for reproduction and your fix. 
 
-If you have a suggestion for a project that's not on our list, feel free to create an issue in this repository.
+Please use the [Jitsi Community forum](https://community.jitsi.org/) to post your questions and connect with fellow aspirants for GSoC'26.
+
