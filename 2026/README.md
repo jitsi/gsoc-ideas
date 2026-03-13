@@ -14,6 +14,7 @@ Here's the list of project ideas for GSoC 2026! Click on the title for a more de
 * [Ultrasound experiments with ggwave (part 2)](ultrasound-ggwave.md)
 * [Rewrite Jibri to use iframe API](jibri-iframe-api.md)
 * [Document Picture-in-Picture for browser meetings](document-pip-browser.md)
+* [Multi-screen support](multi-screen-support.md)
 
 # Interested in applying for a project?
 
