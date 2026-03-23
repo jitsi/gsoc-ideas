@@ -16,6 +16,16 @@ Here's the list of project ideas for GSoC 2026! Click on the title for a more de
 * [Document Picture-in-Picture for browser meetings](document-pip-browser.md)
 * [Multi-screen support](multi-screen-support.md)
 
+## New contributors: start here
+
+If you are applying for GSoC and want a concrete execution path, read:
+
+* [GSoC 2026 Contributor Starter Playbook](contributor-starter-playbook.md)
+
+Recommended first project path for many applicants:
+
+* [External API with non-serialized postMessages](external-api-structured-clone.md)
+
 # Interested in applying for a project?
 
 Jitsi GSoC’26 Application Guidelines
